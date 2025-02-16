@@ -1,9 +1,9 @@
 ##👋 Hi, I'm Lakshan M!
-🚀 B.Tech CSE Student at SRM IST RMP
-💡 Passionate about Software Development
-🌱 Always learning and improving my coding skills
+- 🚀 B.Tech CSE Student at SRM IST RMP
+- 💡 Passionate about Software Development
+- 🌱 Always learning and improving my coding skills
 
-Let's build something amazing together! 💻✨
+- Let's build something amazing together! 💻✨
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lakshan-m-98a64628a)
