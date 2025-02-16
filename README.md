@@ -1,4 +1,4 @@
-##👋 Hi, I'm Lakshan M!
+### 👋 Hi, I'm Lakshan M!
 - 🚀 B.Tech CSE Student at SRM IST RMP
 - 💡 Passionate about Software Development
 - 🌱 Always learning and improving my coding skills
