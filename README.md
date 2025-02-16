@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Lakshan M!
+### 👋 Hi, I'm Lakshan M! [![](https://visitcount.itsvg.in/api?id=lakshan64&icon=0&color=0)](https://visitcount.itsvg.in)
 - 🚀 B.Tech CSE Student at SRM IST RMP
 - 💡 Passionate about Software Development
 - 🌱 Always learning and improving my coding skills
